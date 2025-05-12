@@ -9,7 +9,7 @@
 **Languages & Technologies**  
 💻 C++ | 🌐 Python | ☕ Java | 🧰 JavaScript | 🌟 Node.js | ⚛️ React 
 
-**Problem-Solving**
+**Problem-Solving**  
 🧠 Data Structures & Algorithms | 🎯 Efficient System Design
 
 **Backend & Databases**  
