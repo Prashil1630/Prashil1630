@@ -7,7 +7,10 @@
 🛠️ **Technical Expertise**
 
 **Languages & Technologies**  
-🌐 Python | ☕ Java | 💻 C++ | 🧰 JavaScript | 🌟 Node.js | ⚛️ React 
+💻 C++ | 🌐 Python | ☕ Java | 🧰 JavaScript | 🌟 Node.js | ⚛️ React 
+
+**Problem-Solving**
+🧠 Data Structures & Algorithms | 🎯 Efficient System Design
 
 **Backend & Databases**  
 🗄️ MongoDB | 📦 MySQL | 🔄 Express | ⚙️ Hadoop | 🔎 Spark | 🐝 Hive
