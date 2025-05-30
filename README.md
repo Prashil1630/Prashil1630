@@ -15,16 +15,13 @@
 **Backend & Databases**  
 🗄️ MongoDB | 📦 MySQL | 🔄 Express | ⚙️ Hadoop | 🔎 Spark | 🐝 Hive
 
-**Data Science & AI**  
-📊 Pandas | 📈 Matplotlib | 🤖 Scikit-learn | 💬 NLP | 🎥 Video/Image Analysis | 🧠 Topic Modeling
-
 ---
 
 🔍 **What I Do Best**
 
-✅ **Build Smart Systems:** From web apps to backend services, I love designing efficient and scalable solutions.  
 ✅ **Work with Data:** Skilled in data preprocessing, feature engineering, and visualization.  
 ✅ **Solve Problems Creatively:** Whether it's a hackathon or an academic challenge, I bring innovative solutions to the table.  
+✅ **Build Smart Systems:** From web apps to backend services, I love designing efficient and scalable solutions.  
 ✅ **Collaborate & Lead:** As a team leader, I thrive in group settings and contribute to collective success.
 
 ---
@@ -32,10 +29,7 @@
 🌟 **Key Highlights**
 
 📲 Proposed a solution for **geolocation-based attendance tracking system** for national-level hackathons  
-📊 Built **data analytics dashboards** using Streamlit for WhatsApp chat analysis  \  
-📚 Explored **constraint satisfaction, A\* search, and game theory** for AI assignments  
-🧪 Implemented **S-AES, RSA, and Feistel Cipher** algorithms for security coursework  
-🌍 Passionate about **Open Source**, Big Data, and Real-Time Systems  
+📊 Built **data analytics web-app** using Streamlit for WhatsApp chat analysis  \  
 
 ---
 
